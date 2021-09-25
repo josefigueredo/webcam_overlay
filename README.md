@@ -24,4 +24,4 @@ If you press the mouse middle button it will toggle black and white.
 
 ## Screenshot
 
-![screenshot](sreenshot.png "Screenshot")
+![screenshot](screenshot.png "Screenshot")
