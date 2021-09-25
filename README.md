@@ -37,3 +37,7 @@ At start it will detect your available webcams. I have the laptops built in and 
 ## Tested in
 
 - Ubuntu 20.04
+- Computer Vision (python3-opencv)
+- QT5 (PyQt5 5.15.2)
+- Numpy (numpy 1.21.2)
+- PIL
