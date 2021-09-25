@@ -1,4 +1,4 @@
-# webcam_overlay
+# Webcam Overlay
 
 Motivations: Whenever I share (present) my screen in google meet the viewers maximize the window and the webcams view hide.
 I try using OBS but the resolution of the webcam view is 720px max. The work arround that I find was to create a transparent circular overlay window to achieve that.
@@ -25,3 +25,7 @@ If you press the mouse middle button it will toggle black and white.
 ## Screenshot
 
 ![screenshot](screenshot.png "Screenshot")
+
+## Tested in
+
+- Ubuntu 20.04
