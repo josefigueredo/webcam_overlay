@@ -19,6 +19,10 @@ At start it will detect your available webcams. I have the laptops built in and 
 - Right button single click cycles the webcam sources
 - Middle button single click toggles black and white
 
+### Keyboard actions
+
+- ESC key will ask you if you want to exit or not
+
 ## Dependencies
 
 - Computer Vision

@@ -76,7 +76,7 @@ class TransparentWindow(QWidget):
 
         pil_image = Image.new('RGBA', (240, 240), (0, 0, 0, 0))
         ImageDraw.Draw(pil_image)
-        image = Image.open("circle3.png")
+        image = Image.open("transparen_circle.png")
         image.resize((240, 240))
         pil_image.paste(image)
 
